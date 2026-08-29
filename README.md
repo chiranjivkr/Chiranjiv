@@ -39,9 +39,4 @@ I am a Computer Science student passionate about software development, problem-s
 
 ⭐ Feel free to explore my projects and check out my work! 
 
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+       
