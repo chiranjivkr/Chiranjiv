@@ -1,53 +1,40 @@
-  # 🗜️ Universal Compressor
+# 🚀 My Projects Portfolio
 
-A **Universal Compressor** is a software application designed to reduce the size of different types of files while maintaining their original data and quality.
+Welcome to my GitHub repository! 👋
 
-## 🚀 Features
+This repository contains a collection of projects developed while learning and exploring different technologies in software development, web development, data structures, and machine learning.
 
-* 📁 Supports multiple file types
-* 🗜️ Efficient file compression
-* 📦 Reduces storage requirements
-* ⚡ Improves file transfer speed
-* 🔓 Easy file decompression
-* 💻 Simple and user-friendly interface
+## 📂 Projects
 
-## 🛠️ Technologies Used
+### 🌐 Portfolio
+A personal portfolio website showcasing my skills, projects, and experience.
 
-* Programming Language: **Java / Python / C++**
-* Compression Algorithms
-* File Handling
-* Data Structures and Algorithms
+### 🎮 Tic Tac Toe
+An interactive Tic Tac Toe game built using programming and problem-solving concepts.
 
-## ⚙️ How It Works
+### 🌦️ Weather App
+A web application that provides weather information through an easy-to-use interface.
 
-1. 📂 Select or upload a file.
-2. 🔍 The system identifies the file and its data.
-3. 🗜️ A suitable compression algorithm is applied.
-4. 💾 The compressed file is generated.
-5. 🔓 The original file can be restored using decompression.
+### 🤖 Sentiment Review Analyzer
+A Machine Learning project that analyzes and classifies sentiments from user reviews.
 
-## 🎯 Project Objective
+### 🗜️ Universal Compressor
+A file compression project designed to reduce file sizes and optimize storage and file transfer.
 
-The main objective of this project is to create a single platform that can efficiently compress different types of files, helping users save storage space and reduce file transfer time.
+## 🛠️ Technologies & Skills
 
-## 📊 Applications
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+- Data Structures & Algorithms
 
-* Cloud Storage
-* File Sharing
-* Data Backup
-* Email Attachments
-* Storage Optimization
+## 🎯 About Me
 
-## 🔮 Future Enhancements
+I am a Computer Science student passionate about software development, problem-solving, machine learning, and building practical projects.
 
-* Support for more file formats
-* AI-based compression optimization
-* Cloud integration
-* Better compression ratios
-* GUI improvements
+---
 
-## 👨‍💻 Author
-
-**Chiranjiv**
-
-⭐ If you like this project, don't forget to **star the repository!**
+⭐ Feel free to explore my projects and check out my work!
